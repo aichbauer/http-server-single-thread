@@ -1,4 +1,4 @@
-package app.models;
+package example.com.app.models;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package app.controllers;
+package example.com.app.controllers;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.Getter;

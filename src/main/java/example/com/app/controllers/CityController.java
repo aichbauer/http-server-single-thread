@@ -1,13 +1,13 @@
-package app.controllers;
+package example.com.app.controllers;
 
-import app.services.CityService;
+import example.com.app.services.CityService;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import http.ContentType;
-import http.HttpStatus;
+import example.com.http.ContentType;
+import example.com.http.HttpStatus;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;
-import server.Response;
+import example.com.server.Response;
 
 import java.util.List;
 

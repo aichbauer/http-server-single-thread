@@ -1,14 +1,14 @@
-package app;
+package example.com.app;
 
-import app.controllers.CityController;
-import app.services.CityService;
-import http.ContentType;
-import http.HttpStatus;
+import example.com.app.controllers.CityController;
+import example.com.app.services.CityService;
+import example.com.http.ContentType;
+import example.com.http.HttpStatus;
 import lombok.AccessLevel;
 import lombok.Setter;
-import server.Request;
-import server.Response;
-import server.ServerApp;
+import example.com.server.Request;
+import example.com.server.Response;
+import example.com.server.ServerApp;
 
 
 public class App implements ServerApp {

@@ -1,8 +1,8 @@
-package server;
+package example.com.server;
 
-import app.App;
-import http.ContentType;
-import http.HttpStatus;
+import example.com.app.App;
+import example.com.http.ContentType;
+import example.com.http.HttpStatus;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;

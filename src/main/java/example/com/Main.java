@@ -1,5 +1,7 @@
-import app.App;
-import server.Server;
+package example.com;
+
+import example.com.app.App;
+import example.com.server.Server;
 
 import java.io.IOException;
 

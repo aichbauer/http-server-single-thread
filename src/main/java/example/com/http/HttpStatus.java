@@ -1,4 +1,4 @@
-package http;
+package example.com.http;
 
 import lombok.AccessLevel;
 import lombok.Getter;

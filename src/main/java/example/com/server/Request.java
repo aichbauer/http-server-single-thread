@@ -1,6 +1,6 @@
-package server;
+package example.com.server;
 
-import http.Method;
+import example.com.http.Method;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;

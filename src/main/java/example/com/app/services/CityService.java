@@ -1,6 +1,6 @@
-package app.services;
+package example.com.app.services;
 
-import app.models.City;
+import example.com.app.models.City;
 import lombok.AccessLevel;
 import lombok.Setter;
 
